@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Konstantinos Roulias
 
-<!--
-**KostasRoulias/KostasRoulias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Profile Snapshot
 
-Here are some ideas to get you started:
+Military professional with **15+ years of leadership** experience, currently transitioning into **Data Engineering**.  
+Strong background in **Python, SQL, Cloud ETL**, and **AI**, with hands-on project experience on **Azure** and end-to-end data systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KostasRoulias&show_icons=true&hide_title=true)
+---
+
+## 🛠 Core Skills
+
+- **Python & SQL** – data processing, transformations, analytics
+- **Data Engineering** – ETL pipelines, Data Warehousing, Star Schemas
+- **Azure** – Data Factory, Azure SQL, Blob Storage
+- **Machine Learning** – CNNs, model evaluation, Explainable AI (Grad-CAM)
+- **Git & Collaboration** – branches, PRs, team workflows
+
+---
+
+## 🚀 Selected Projects
+
+### 🔹 Azure Data Warehouse & ETL
+- Built an end-to-end **Azure Data Warehouse**
+- Designed star schema (6 Dimensions, 1 Fact)
+- Implemented ADF pipelines & Mapping Data Flows
+- Applied DW modeling & SCD concepts
+
+### 🔹 Collaborative EDA Project
+- Team-based EDA using Python
+- Clean Git workflow (branches, PRs, reviews)
+- Focus on structure, collaboration & reproducibility
+
+### 🔹 CNN Web App with Explainable AI (Thesis)
+- Flask web app for image classification
+- CNN models with Grad-CAM visual explanations
+- Model comparison & evaluation under data constraints
+
+---
+
+## 🎯 Career Focus
+
+- Data Engineering roles
+- Cloud & data-driven teams
+- Clean, scalable, and maintainable systems
+
+---
+
+
+## 📫 Contact
+
+- GitHub: https://github.com/Kostasroulias
+- LinkedIn: https://www.linkedin.com/in/konstantinosroulias/
+
+
+
