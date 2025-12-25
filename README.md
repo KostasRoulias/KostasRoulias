@@ -5,6 +5,8 @@
 Military professional with **15+ years of leadership experience**, currently transitioning into **Data Engineering**.  
 Strong background in **Python, SQL, Cloud ETL, and AI**, with hands-on experience building **end-to-end data systems on Azure**.
 
+<img src="https://streak-stats.demolab.com?user=KostasRoulias" />
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KostasRoulias&show_icons=true&hide_title=true" />
 
 ## 🛠 Core Skills
