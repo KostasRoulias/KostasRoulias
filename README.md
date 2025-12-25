@@ -15,6 +15,8 @@ Strong background in **Python, SQL, Cloud ETL, and AI**, with hands-on experienc
 - **Machine Learning** – CNNs, model evaluation, Explainable AI (Grad-CAM)
 - **Git & Collaboration** – branches, pull requests, team workflows
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KostasRoulias&layout=compact" />
+
 ---
 
 ## 🚀 Selected Projects
