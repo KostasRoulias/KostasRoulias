@@ -19,6 +19,24 @@ Strong background in **Python, SQL, Cloud ETL, and AI**, with hands-on experienc
 
 ## 🚀 Selected Projects
 
+### 🔹 Weather & Air Quality ETL Pipeline (Dockerized)
+
+- Designed and implemented an **end-to-end ETL pipeline** using the **Open-Meteo API**
+- Extracts **weather & air quality data** for multiple European cities
+- Transformations with **Pandas** (cleaning, enrichment, weather code mapping)
+- Loads data into **PostgreSQL** using **SQLAlchemy**
+- Fully containerized with **Docker Compose**:
+  - PostgreSQL
+  - pgAdmin
+  - Python ETL service
+- **Automated scheduling with cron** (monthly execution)
+- Clear separation between:
+  - Prototyping (**Jupyter notebooks**)
+  - Production **ETL script**
+- Deployed on a **Linux VM**
+
+**Tech stack:** Python, Pandas, PostgreSQL, Docker, Cron, SQLAlchemy, Linux
+
 ### 🔹 Azure Data Warehouse & ETL
 - Built an end-to-end **Azure Data Warehouse**
 - Designed a star schema (**6 Dimensions, 1 Fact**)
